@@ -1,0 +1,55 @@
+/* .frame{
+    position: relative;
+    width: 428px;
+    height: 926px;
+    background: #FFFFFF;
+} */
+.nbk{
+    position: absolute;
+width: 399px;
+height: 116px;
+left: 0px;
+top: 99px;
+
+background: #D9D9D9;
+border-radius: 40px;
+}
+.cr{
+    position: absolute;
+    width: 114px;
+    height: 15px;
+    left: calc(50% - 114px/2 + 125px);
+    top: 30px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+
+
+    color: #000000;
+
+}
+.nbkp{
+    position: absolute;
+    width: 118px;
+    height: 116px;
+    left: 45px;
+    top: 0px;
+}
+#sn1{
+    position: absolute;
+    width: 19px;
+    height: 48px;
+    left: 14px;
+    top: 0px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+
+}
